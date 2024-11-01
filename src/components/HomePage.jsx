@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import '../components/HomePage.css'
 import airbnb from '../assets/img/airbnb.png'
 import microsoft from '../assets/img/microsoft.png'
 import tailus from '../assets/img/tailus.png'
@@ -12,7 +11,6 @@ import medal from '../assets/logo/medal.png'
 import myob from '../assets/logo/myob.png'
 import thought from '../assets/logo/thought.png'
 import training from '../assets/logo/training.png'
-
 import bgImage from '../assets/img/bg.svg';
 
 export const HomePage = () => {
